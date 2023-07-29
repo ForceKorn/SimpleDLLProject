@@ -1,0 +1,6 @@
+LIBRARY Calc
+
+EXPORTS
+   calculateWithConsole @1
+   getUserOperation     @2
+   getUserNumber        @3
